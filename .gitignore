@@ -5,3 +5,4 @@
 /.vs
 /Artifacts/.vs/Artifacts/v16
 /Artifacts/LeetCode/obj
+/Artifacts/LeetCode/bin/Debug/netcoreapp3.1
